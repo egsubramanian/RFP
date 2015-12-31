@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "ABC Company",
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "accountcode": "ABCUPO001900",
+        "type": "Corporate",
+        "snippet": "ABC Company"
+    },
+    {
+        "id": 2,
+        "name": "XYZ Company",
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg",
+        "accountcode": "XYZUPO001900",
+        "type": "Corporate",
+        "snippet": "XYZ Company"
+    },
+    {
+        "id": 3,
+        "name": "Global Tranz",
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg",
+        "accountcode": "GLBUPO001900",
+        "type": "Corporate",
+        "snippet": "Global Tranz"
+    }
+]
